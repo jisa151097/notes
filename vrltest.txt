@@ -1,0 +1,12 @@
+1.open Vrl travels page
+     https://www.vrlbus.in/vrl2013/register_customer.aspx
+2.verify the title is 'VRLTRAVELS'
+3.check register text is available in that page
+4.check the no of links in that page is 40
+5.Fill all the fields
+6.verify the checkbox is selected or not when we open the site
+7.verify the alert message if we register without captch 
+8.check the vrl logo is displayed or not
+9.verify the count of city field is 25
+10.check the text of submit button
+       exp: register

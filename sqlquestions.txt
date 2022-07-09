@@ -1,0 +1,13 @@
+create table petrol details
+distributorid,distributorname,buyrate,sellrate,volumein,volumeout,year
+insert into tablename values(),(),()
+
+1)query to fetch distributor name from table using the alias name as distributorname
+2)query to fetch distributorname from petrol details in uppercase
+3)query to print the first 3 characters of distributor name
+4)query to display all details from the petrol order by distributor name as ascending
+5)query to display details for petrol with the distributor name as hindusthan and bharath
+6)query to display details whose distributorname contains h
+7) what is the total amount of petrol in volume sold by every distributor
+8)query to print details of year between 2012-2017
+9)query to fetch the count of each distributor name.

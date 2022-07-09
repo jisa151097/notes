@@ -1,0 +1,12 @@
+
+Selenium Exercise
+
+Create a new test that is covering the following scenario:
+1.navigate to the Expedia Website
+2.Look for flight from brussels to newyork
+
+Additional data
+1. website to use www.expedia.com
+2.trvelers -2 adult+1 child(3 years old)
+3.select first class
+4.select date 2 months gap
